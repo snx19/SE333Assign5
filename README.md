@@ -1,3 +1,5 @@
+![Build Status](https://github.com/snx19/SE333Assign5/actions/workflows/SE333_CI.yml/badge.svg)
+
 Overview of project:
 This assignment focuses on automating testing and performing quality checks
 using GitHub Actions, a CI(continuous integration tool) for running and
